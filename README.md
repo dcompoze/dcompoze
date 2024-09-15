@@ -1,5 +1,5 @@
-I'm a software engineer with over 11 years of professional experience, specialising in blockchain and finance.
+I'm a software engineer with over 11 years of professional experience, specialising in blockchain and web development.
 
-Blockchain • Finance • Linux • Rust • Solidity
+Blockchain • Web • Backend • Linux • Rust
 
 Previous GitHub account: [Nostdm](https://github.com/nostdm)
