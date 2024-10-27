@@ -1,4 +1,4 @@
-I'm a software engineer with over 11 years of professional experience, specialising in blockchain and web development.
+I'm a software engineer with over 11 years of professional experience, specialising in blockchain development, back-end systems, and smart contracts.
 
 Blockchain • Finance • Web • Linux • Rust
 
