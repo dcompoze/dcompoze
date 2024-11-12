@@ -2,4 +2,4 @@ I'm a software engineer with over 11 years of professional experience, specialis
 
 Blockchain • Finance • Web • Linux • Rust
 
-Previous GitHub account (2015-2021): [Nostdm](https://github.com/nostdm)
+Previous GitHub account: [Nostdm](https://github.com/nostdm) (2015-2021)
