@@ -1,4 +1,4 @@
-I'm a software engineer with over 10 years of professional experience, specialising in blockchain development, back-end systems, and smart contracts.
+I'm a software engineer with over 10 years of professional experience, specialising in blockchain development, smart contracts and back-end systems.
 
 Blockchain • Finance • Linux • Rust • Solidity
 
