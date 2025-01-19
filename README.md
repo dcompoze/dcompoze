@@ -1,3 +1,3 @@
-Blockchain • Finance • Linux • Rust
+Blockchain • DeFi • Linux • Rust • Solana
 
 Previous GitHub account: [Nostdm](https://github.com/nostdm) (2015-2021)
