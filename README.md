@@ -2,7 +2,7 @@ Blockchain • DeFi • Linux • Rust • Solana • Ethereum • Polkadot
 
 | Project | Status | Description |
 |:--|:--|:--|
-| 🦠 [Cellbook](https://github.com/dcompoze/cellbook) | Active | Dynamic computational environment for statistics and data analysis in Rust. |
+| 🦠 [Cellbook](https://github.com/dcompoze/cellbook) | Active | Dynamic computational notebook environment in plain Rust. |
 | 📘 [Grid](https://github.com/dcompoze/grid) | Active | Graphical way to organize books, research papers, bookmarks and other content. |
 | 🤖 [Mantis](https://github.com/ComposableFi?q=mantis&type=all&language=&sort=) | Inactive | Intents-based cross-chain DEX with a DeFi AI agent built on top. |
 | 🌸 [Peonychain](https://peonychain.com) | Paused | Composable DeFi parachain on Polkadot. |
