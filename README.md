@@ -4,7 +4,7 @@ Blockchain • DeFi • Linux • Rust • Solana • Ethereum • Polkadot
 |:--|:--|:--|
 | 🦠 [Cellbook](https://github.com/dcompoze/cellbook) | Active | Dynamic computational notebook environment in plain Rust. |
 | 📦 [kraken-client](https://github.com/dcompoze/kraken-client) | Active | A Rust async client library for the Kraken REST API. |
-| 📦 [coinbase-client](https://github.com/dcompoze/coinbase-client) | Active | A Rust async client library for the Coinbase Pro REST API. |
+| 📦 [coinbase-advanced](https://github.com/dcompoze/coinbase-advanced) | Active | A Rust async client library for the Coinbase Advanced REST API. |
 | 📦 [binance-client](https://github.com/dcompoze/binance-client) | Active | A Rust async client library for the Binance REST API. |
 | 📦 [bybit-client](https://github.com/dcompoze/bybit-client) | Active | A Rust async client library for the Bybit V5 API. |
 | 🤖 [Mantis](https://github.com/ComposableFi?q=mantis&type=all&language=&sort=) | Inactive | Intents-based cross-chain DEX with a DeFi AI agent built on top. |
