@@ -6,7 +6,8 @@ Blockchain • DeFi • Linux • Rust • Solana • Ethereum • Polkadot
 | 📦 [kraken-api-client](https://github.com/dcompoze/kraken-api-client) | Active | Rust async client library for the Kraken Spot and Futures APIs. |
 | 📦 [coinbase-advanced](https://github.com/dcompoze/coinbase-advanced) | Active | Rust async client library for the Coinbase Advanced REST APIs. |
 | 📦 [binance-api-client](https://github.com/dcompoze/binance-api-client) | Active | Rust async client library for the Binance Spot REST and WebSocket APIs. |
-| 📦 [bybit-client](https://github.com/dcompoze/bybit-client) | Active | Rust async client library for the Bybit V5 APIs. |
+| 📦 [bybit-client](https://github.com/dcompoze/bybit-client) | Active | Rust async client library for the Bybit v5 APIs. |
+| 📦 [okx-client](https://github.com/dcompoze/okx-client) | Active | Rust async client library for the OKX v5 APIs. |
 | 🤖 [Mantis](https://github.com/ComposableFi?q=mantis&type=all&language=&sort=) | Inactive | Intents-based cross-chain DEX with a DeFi AI agent built on top. |
 | 🌸 [Peonychain](https://peonychain.com) | Paused | Composable DeFi parachain built with Substrate. |
 | 🫆 [Monolith](https://monolith.xyz) | Inactive | Mobile non-custodial smart contract wallet with a fiat payment card.  |
