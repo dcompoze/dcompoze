@@ -1,4 +1,4 @@
-Blockchain • DeFi • Linux • Rust • Solana • Ethereum • Polkadot
+Blockchain • DeFi • Linux • Rust • Solana • Ethereum • Intents
 
 | Project | Status | Description |
 |:--|:--|:--|
