@@ -9,7 +9,7 @@ Blockchain • DeFi • Linux • Rust • Solana • Ethereum • Intents
 | 📦 [bybit-client](https://github.com/dcompoze/bybit-client) | Active | Rust async client library for the Bybit v5 APIs. |
 | 📦 [okx-client](https://github.com/dcompoze/okx-client) | Active | Rust async client library for the OKX v5 APIs. |
 | 💱 [Relay](https://github.com/relayprotocol) | Active | Intent-based cross-chain relay protocol supporting over 80 blockchains. |
-| 🤖 [Mantis](https://github.com/ComposableFi?q=mantis&type=all&language=&sort=) | Inactive | Intents-based cross-chain DEX with a DeFi AI agent built on top. |
+| 🤖 [Mantis](https://github.com/ComposableFi?q=mantis&type=all&language=&sort=) | Inactive | Intent-based cross-chain DEX with an integrated AI agent. |
 | 🌸 [Peonychain](https://peonychain.com) | Paused | Composable DeFi parachain built with Substrate. |
 | 🫆 [Monolith](https://monolith.xyz) | Inactive | Mobile non-custodial smart contract wallet with a fiat payment card.  |
 | 💳 [Tokencard](https://github.com/tokencard) | Inactive | Crypto fiat payment card for ETH and ERC20 tokens. |
