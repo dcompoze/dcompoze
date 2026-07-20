@@ -13,5 +13,3 @@ Blockchain • DeFi • Linux • Rust • Solana • Ethereum • Intents
 | 🌸 [Peonychain](https://peonychain.com) | Paused | Composable DeFi parachain built with Substrate. |
 | 🫆 [Monolith](https://monolith.xyz) | Inactive | Mobile non-custodial smart contract wallet with a fiat payment card.  |
 | 💳 [Tokencard](https://github.com/tokencard) | Inactive | Crypto fiat payment card for ETH and ERC20 tokens. |
-
-Previous GitHub account: [Nostdm](https://github.com/nostdm) (2015)
