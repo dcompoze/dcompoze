@@ -1,4 +1,4 @@
-Blockchain • DeFi • Linux • Rust • Solana • Ethereum • Intents
+Blockchain • DeFi • Linux • Rust • Solana • Ethereum • Bridges
 
 | Project | Status | Description |
 |:--|:--|:--|
