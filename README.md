@@ -11,5 +11,3 @@ Blockchain • DeFi • Linux • Rust • Solana • Ethereum • Bridges
 | 💎 [Relay](https://github.com/relayprotocol) | Active | Intent-based cross-chain relay protocol supporting over 80 blockchains. |
 | 🤖 [Mantis](https://github.com/ComposableFi?q=mantis&type=all&language=&sort=) | Inactive | Intent-based cross-chain DEX with an integrated AI agent. |
 | 🌸 [Peonychain](https://peonychain.com) | Paused | Composable DeFi parachain built with Substrate. |
-| 🫆 [Monolith](https://monolith.xyz) | Inactive | Mobile non-custodial smart contract wallet with a fiat payment card.  |
-| 💳 [Tokencard](https://github.com/tokencard) | Inactive | Crypto fiat payment card for ETH and ERC20 tokens. |
