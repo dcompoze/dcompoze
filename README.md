@@ -8,6 +8,6 @@ Blockchain • DeFi • Linux • Rust • Solana • Ethereum • Bridges
 | 📦 [binance-api-client](https://github.com/dcompoze/binance-api-client) | Active | Rust async client library for the Binance Spot REST and WebSocket APIs. |
 | 📦 [bybit-client](https://github.com/dcompoze/bybit-client) | Active | Rust async client library for the Bybit v5 APIs. |
 | 📦 [okx-client](https://github.com/dcompoze/okx-client) | Active | Rust async client library for the OKX v5 APIs. |
-| 💎 [Relay](https://github.com/relayprotocol) | Active | Intent-based cross-chain relay protocol supporting over 80 blockchains. |
+| 💎 [Relay](https://github.com/relayprotocol) | Active | Intent-based cross-chain Relay Protocol supporting over 80 blockchains. |
 | 🤖 [Mantis](https://github.com/ComposableFi?q=mantis&type=all&language=&sort=) | Inactive | Intent-based cross-chain DEX with an integrated AI agent. |
 | 🌸 [Peonychain](https://peonychain.com) | Inactive | Composable DeFi parachain built with Substrate. |
